@@ -1,0 +1,15 @@
+D:\.net6 上課\create-blazor-charts-in-a-blazor-server-app-master\BlankApp1\BlankApp1\BlankApp1\bin\Debug\netstandard2.0\BlankApp1.deps.json
+D:\.net6 上課\create-blazor-charts-in-a-blazor-server-app-master\BlankApp1\BlankApp1\BlankApp1\bin\Debug\netstandard2.0\BlankApp1.dll
+D:\.net6 上課\create-blazor-charts-in-a-blazor-server-app-master\BlankApp1\BlankApp1\BlankApp1\bin\Debug\netstandard2.0\BlankApp1.pdb
+D:\.net6 上課\create-blazor-charts-in-a-blazor-server-app-master\BlankApp1\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.csproj.AssemblyReference.cache
+D:\.net6 上課\create-blazor-charts-in-a-blazor-server-app-master\BlankApp1\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net6 上課\create-blazor-charts-in-a-blazor-server-app-master\BlankApp1\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\.net6 上課\create-blazor-charts-in-a-blazor-server-app-master\BlankApp1\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\.net6 上課\create-blazor-charts-in-a-blazor-server-app-master\BlankApp1\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.AssemblyInfoInputs.cache
+D:\.net6 上課\create-blazor-charts-in-a-blazor-server-app-master\BlankApp1\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.AssemblyInfo.cs
+D:\.net6 上課\create-blazor-charts-in-a-blazor-server-app-master\BlankApp1\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.csproj.CoreCompileInputs.cache
+D:\.net6 上課\create-blazor-charts-in-a-blazor-server-app-master\BlankApp1\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\.net6 上課\create-blazor-charts-in-a-blazor-server-app-master\BlankApp1\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.dll
+D:\.net6 上課\create-blazor-charts-in-a-blazor-server-app-master\BlankApp1\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.pdb
+D:\.net6 上課\create-blazor-charts-in-a-blazor-server-app-master\BlankApp1\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.csproj.Fody.CopyLocal.cache
+D:\.net6 上課\create-blazor-charts-in-a-blazor-server-app-master\BlankApp1\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.csproj.Fody.RuntimeCopyLocal.cache

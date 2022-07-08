@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BlankApp1.Views.MainPage"
+             Title="{Binding Title}">
+
+    <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Label Text="{Binding FirstName}"  FontSize="Large"  BackgroundColor="Pink" TextColor="black"></Label>
+            <Label Text="{Binding Symbol}"  BackgroundColor="Pink" TextColor="black"></Label>
+            <Label Text="{Binding SecondName}"  FontSize="Large" BackgroundColor="Pink" TextColor="black"></Label>
+        </Grid>
+       
+        
+        <Entry Text="{Binding MyEntry}"  BackgroundColor="Green" ></Entry>
+
+        <Label Text="{Binding MyLabel}"  BackgroundColor="Pink" TextColor="black"></Label>
+
+        <Button  BackgroundColor="Pink" Text="送出答案" TextColor="Blue" Command="{Binding checkbtn}"></Button >
+        <Button  BackgroundColor="Pink" Text="重新產生題目" TextColor="Blue" Command="{Binding retrybtn}"></Button >
+        <Button  BackgroundColor="Pink" Text="+" TextColor="Blue" Command="{Binding addbtn}"></Button >
+        <Button  BackgroundColor="Pink" Text="-" TextColor="Blue" Command="{Binding reducebtn}"></Button >
+        <Button  BackgroundColor="Pink" Text="*" TextColor="Blue" Command="{Binding multiplicationbtn}"></Button >
+        <Button  BackgroundColor="Pink" Text="/" TextColor="Blue" Command="{Binding divisionbtn}"></Button >
+
+
+    </StackLayout>
+
+</ContentPage>
+
